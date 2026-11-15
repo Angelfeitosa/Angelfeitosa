@@ -12,7 +12,7 @@ Estou em processo de aprendizagem consolidando uma carreira em desenvolvimento F
 
 Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no GitHub 
 
-### Contato
+### 🌐 Contato
 <p>
   <a href="https://instagram.com/SEU_INSTAGRAM">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
