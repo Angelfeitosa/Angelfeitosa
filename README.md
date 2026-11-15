@@ -1,175 +1,67 @@
-# 👩🏻‍💻 Angélica Feitosa
+<!--
+  COMO USAR:
+  1. Crie um repositório com EXATAMENTE o mesmo nome do seu usuário do GitHub (ex.: github.com/seuusuario/seuusuario).
+  2. Cole este conteúdo no README.md desse repositório.
+  3. Troque tudo que está em MAIÚSCULAS (SEU_USUARIO, SEU_NOME, etc.) pelos seus dados.
+  4. Apague as linhas/badges que não usar (ex.: YouTube, se não tiver canal).
+-->
 
-**`Desenvolvedora FullStack`**
+<h1>👩🏻‍💻 Olá, eu sou SEU_NOME</h1>
 
+<img src="https://img.shields.io/badge/Desenvolvedora%20FullStack-0d1117?style=flat-square" alt="Cargo"/>
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+Me chamo **SEU_NOME COMPLETO**, tenho **XX anos** e sou de **SUA_CIDADE/ESTADO**. Sou formada/estou cursando **SEU_CURSO** na **SUA_INSTITUIÇÃO**. Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no GitHub e também no Instagram [@SEU_INSTAGRAM](https://instagram.com/SEU_INSTAGRAM).
+
+<p>
+  <a href="https://youtube.com/@SEU_CANAL">
+    <img src="https://img.shields.io/badge/Inscreva--se-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=yellow&style=for-the-badge" alt="Visualizações do perfil"/>
+  <img src="https://img.shields.io/github/stars/SEU_USUARIO?label=Estrelas&style=for-the-badge&color=4c1&logo=github" alt="Estrelas"/>
+  <a href="https://github.com/SEU_USUARIO?tab=followers">
+    <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=for-the-badge&color=1f6feb&logo=github" alt="Seguidores"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://instagram.com/SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧰 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<!-- Ajuste a lista: veja todos os ícones disponíveis em https://skillicons.dev -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,sass,php,laravel,mysql,git,python,vscode&perline=15" alt="Tecnologias"/>
+</a>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8" alt="Linguagens mais usadas"/>
 </p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições"/>
+</p>
+
+---
+
+### 🚀 No momento
+
+- 🔭 Trabalhando em **SEU_PROJETO**
+- 🌱 Aprendendo **O_QUE_ESTÁ_ESTUDANDO**
+- 💬 Pode me perguntar sobre **SEUS_ASSUNTOS**
+- ⚡ Curiosidade: **ALGO_SOBRE_VOCÊ**
