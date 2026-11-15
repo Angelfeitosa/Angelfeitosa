@@ -8,11 +8,6 @@ Me chamo Angélica, sou de São Paulo - SP. Estou cursando Ciências da Computa�
 Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no GitHub 
 
 <p>
-  <a href="https://youtube.com/@SEU_CANAL">
-    <img src="https://img.shields.io/badge/Inscreva--se-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=yellow&style=for-the-badge" alt="Visualizações do perfil"/>
-  <img src="https://img.shields.io/github/stars/SEU_USUARIO?label=Estrelas&style=for-the-badge&color=4c1&logo=github" alt="Estrelas"/>
   <a href="https://github.com/SEU_USUARIO?tab=followers">
     <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=for-the-badge&color=1f6feb&logo=github" alt="Seguidores"/>
   </a>
