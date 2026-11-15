@@ -31,7 +31,7 @@ Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no 
 
 <!-- Ajuste a lista: veja todos os ícones disponíveis em https://skillicons.dev -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,mysql,git,python,vscode&perline=15" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,mysql,azure,git,python,vscode&perline=15" alt="Tecnologias"/>
 </a>
 
 ---
