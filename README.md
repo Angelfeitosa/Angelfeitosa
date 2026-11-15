@@ -1,16 +1,11 @@
-<!--
-  COMO USAR:
-  1. Crie um repositório com EXATAMENTE o mesmo nome do seu usuário do GitHub (ex.: github.com/seuusuario/seuusuario).
-  2. Cole este conteúdo no README.md desse repositório.
-  3. Troque tudo que está em MAIÚSCULAS (SEU_USUARIO, SEU_NOME, etc.) pelos seus dados.
-  4. Apague as linhas/badges que não usar (ex.: YouTube, se não tiver canal).
--->
+
 
 <h1>👩🏻‍💻 Olá, eu sou SEU_NOME</h1>
 
 <img src="https://img.shields.io/badge/Desenvolvedora%20FullStack-0d1117?style=flat-square" alt="Cargo"/>
 
-Me chamo **SEU_NOME COMPLETO**, tenho **XX anos** e sou de **SUA_CIDADE/ESTADO**. Sou formada/estou cursando **SEU_CURSO** na **SUA_INSTITUIÇÃO**. Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no GitHub e também no Instagram [@SEU_INSTAGRAM](https://instagram.com/SEU_INSTAGRAM).
+Me chamo Angélica, sou de São Paulo - SP. Estou cursando Ciências da Computação na FIT. Estou em processo de aprendizagem para me tornar uma desenvolvedora Full Stack, atualmente estagiando em Desenvolvimento de sistemas e automação na BITI9.
+Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no GitHub 
 
 <p>
   <a href="https://youtube.com/@SEU_CANAL">
