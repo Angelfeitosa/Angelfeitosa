@@ -4,13 +4,15 @@
 
 <img src="https://img.shields.io/badge/Desenvolvedora%20FullStack-0d1117?style=flat-square" alt="Cargo"/>
 
-Estudante do curso de Ciências da Computação na Faculdade Impacta Tecnologia (FIT).
+### Estudante do curso de Ciências da Computação na Faculdade Impacta Tecnologia (FIT).
+
 Tenho interesse em desenvolvimento web e desenvolvimento de software, unindo conhecimentos de programação e design digital para criar soluções funcionais e intuitivas.
 Atualmente aprimoro minhas habilidades em Python, java, JavaScript, Tapyscript, banco de dados e tecnologias avançadas relacionadas ao desenvolvimento de aplicações.
 Estou em processo de aprendizagem consolidando uma carreira em desenvolvimento Full Stack, sou estagiaria em Desenvolvimento de sistemas e automação na BITI9.
+
 Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no GitHub 
 
-
+### Contato
 <p>
   <a href="https://instagram.com/SEU_INSTAGRAM">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
