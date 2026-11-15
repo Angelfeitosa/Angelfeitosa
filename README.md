@@ -1,17 +1,11 @@
 
 
-<h1>👩🏻‍💻 Olá, eu sou SEU_NOME</h1>
+<h1>👩🏻‍💻 Olá, eu sou Angélica</h1>
 
 <img src="https://img.shields.io/badge/Desenvolvedora%20FullStack-0d1117?style=flat-square" alt="Cargo"/>
 
 Me chamo Angélica, sou de São Paulo - SP. Estou cursando Ciências da Computação na FIT. Estou em processo de aprendizagem para me tornar uma desenvolvedora Full Stack, atualmente estagiando em Desenvolvimento de sistemas e automação na BITI9.
 Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no GitHub 
-
-<p>
-  <a href="https://github.com/SEU_USUARIO?tab=followers">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=for-the-badge&color=1f6feb&logo=github" alt="Seguidores"/>
-  </a>
-</p>
 
 <p>
   <a href="https://instagram.com/SEU_INSTAGRAM">
