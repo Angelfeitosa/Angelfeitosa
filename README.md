@@ -63,19 +63,18 @@ Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no 
 ### 📊 Estatísticas
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8" alt="Linguagens mais usadas"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Angelfeitosa&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelfeitosa&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8" alt="Linguagens mais usadas"/>
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições"/>
+  <img src="https://streak-stats.demolab.com?user=Angelfeitosa&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
 ---
 
 ### 🚀 No momento
 
-- 🔭 Trabalhando em **SEU_PROJETO**
-- 🌱 Aprendendo **O_QUE_ESTÁ_ESTUDANDO**
-- 💬 Pode me perguntar sobre **SEUS_ASSUNTOS**
-- ⚡ Curiosidade: **ALGO_SOBRE_VOCÊ**
+- 🔭 Trabalhando em automação
+- 🌱 Aprendendo Agente de IA e desenvolvimento produtivo
+
