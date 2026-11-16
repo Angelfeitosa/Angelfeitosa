@@ -32,6 +32,7 @@ Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no 
 
 
 <!-- Ajuste a lista: veja todos os ícones disponíveis em https://skillicons.dev -->
+<div style="display: inline_block"><br>
 <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -50,13 +51,14 @@ Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no 
 <img align="center" alt="FastAPI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
 <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="VS Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
+</div>
 
 ## 🎨 Design e Criação
 
+<div style="display: inline_block"><br>
 <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img align="center" alt="Photoshop" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
-
+</div>
 
 ### 📊 Estatísticas
 
