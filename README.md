@@ -13,6 +13,7 @@ Estou em processo de aprendizagem consolidando uma carreira em desenvolvimento F
 Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no GitHub 
 
 ### 🌐 Contato
+
 <p>
   <a href="https://instagram.com/SEU_INSTAGRAM">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -29,12 +30,18 @@ Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no 
 
 ### 🧰 Linguagens e Tecnologias
 
+
 <!-- Ajuste a lista: veja todos os ícones disponíveis em https://skillicons.dev -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,mysql,azure,git,python,vscode&perline=15" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,ts,react,nextjs,nodejs,vercel,tailwind,sqlite,mysql,azure,git,github,fastapi,python,vscode&perline=15" alt="Tecnologias"/>
 </a>
 
----
+
+## 🎨 Design e Criação
+
+<img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+
+
 
 ### 📊 Estatísticas
 
