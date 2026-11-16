@@ -28,7 +28,7 @@ Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no 
 
 ---
 
-### 🧰 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 
 <!-- Ajuste a lista: veja todos os ícones disponíveis em https://skillicons.dev -->
