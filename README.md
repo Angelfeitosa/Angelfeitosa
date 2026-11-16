@@ -63,14 +63,13 @@ Sou apaixonada por tecnologia e gosto de compartilhar o que aprendo — aqui no 
 ### 📊 Estatísticas
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Angelfeitosa&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelfeitosa&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8" alt="Linguagens mais usadas"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Angelfeitosa&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Angelfeitosa&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8" alt="Linguagens mais usadas"/>
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=Angelfeitosa&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
-
 ---
 
 ### 🚀 No momento
